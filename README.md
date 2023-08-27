@@ -1,6 +1,6 @@
 # EYES
 
-<h1>Semester 5 Project <p style="color:red;">EYES</p> (Surveillance Software)</h1>
+<h1>Semester 5 Project <span style="color:red;">EYES</span> (Surveillance Software)</h1>
 
 
 <img width="1440" alt="Screenshot 2023-08-27 at 10 41 05 PM" src="https://github.com/anshooool/EYES/assets/140979513/0422501f-7919-402f-88f9-4925fa375e56">
