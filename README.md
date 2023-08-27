@@ -6,7 +6,7 @@
 <img width="1440" alt="Screenshot 2023-08-27 at 10 41 05 PM" src="https://github.com/anshooool/EYES/assets/140979513/0422501f-7919-402f-88f9-4925fa375e56">
 
 
-basic slave command and control GUI
+<b>Basic slave command and control GUI</b>
 
 <img width="776" alt="Screenshot 2023-07-31 at 1 35 24 AM" src="https://github.com/anshooool/EYES/assets/140979513/d9eb99b4-80c7-4955-adf5-4a5a06d6ad76">
 
@@ -31,10 +31,12 @@ The client tries to reconnect to the server recursively once the client is excut
 <img width="1440" alt="Screenshot 2023-08-27 at 9 54 20 PM" src="https://github.com/anshooool/EYES/assets/140979513/9e35d95a-e0f7-4a38-8355-abdef2b28aa3">
 
 The client will keep running and try reconnecting even if the server is not listening or is offline
+
 <img width="1440" alt="Screenshot 2023-08-27 at 9 54 30 PM" src="https://github.com/anshooool/EYES/assets/140979513/597f67a0-fa27-4979-a2e7-6c61db1b5887">
 
 
 The client will wait for the server to be online again and reconnect even if the connection is closed by the server
+
 <img width="1440" alt="Screenshot 2023-08-27 at 9 54 35 PM" src="https://github.com/anshooool/EYES/assets/140979513/7e0356b4-ac4e-4728-8468-a8184f294fae">
 
 
@@ -53,6 +55,8 @@ require elevated privileges
 The hosts file (/etc/hosts) is specific to Unix-like systems. On Windows, the hosts file is located at C:\Windows\System32\drivers\etc\hosts.
 
 <img width="1440" alt="Screenshot 2023-08-27 at 10 23 07 PM" src="https://github.com/anshooool/EYES/assets/140979513/283215f6-0f13-43ec-b114-38b442eb914f">
+
+Site Blocked
 
 <img width="1440" alt="Screenshot 2023-08-27 at 10 23 26 PM" src="https://github.com/anshooool/EYES/assets/140979513/58444180-d20d-4911-9c5c-5ca06ad24f2f">
 
