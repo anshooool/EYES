@@ -8,7 +8,7 @@
 
 <b>Basic slave command and control GUI</b>
 
-<img width="776" alt="Screenshot 2023-07-31 at 1 35 24 AM" src="https://github.com/anshooool/EYES/assets/140979513/d9eb99b4-80c7-4955-adf5-4a5a06d6ad76">
+
 
 <img width="776" alt="Screenshot 2023-07-31 at 1 35 24 AM" src="https://github.com/anshooool/EYES/assets/140979513/1055a56b-9c0a-4028-8a95-1108a3ebacca">
 
