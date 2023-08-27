@@ -3,7 +3,7 @@
 <h1>Semester 5 Project EYES (Surveillance Software)</h1>
 
 
-<img width="691" alt="Screenshot 2023-07-27 at 11 25 24 PM" src="https://github.com/anshooool/EYES/assets/140979513/5266a188-eba0-450b-83c7-6dbcbf1361f9">
+<img width="1440" alt="Screenshot 2023-08-27 at 10 41 05 PM" src="https://github.com/anshooool/EYES/assets/140979513/0422501f-7919-402f-88f9-4925fa375e56">
 
 
 basic slave command and control GUI
