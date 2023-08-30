@@ -65,6 +65,23 @@ Site Blocked
 
 <img width="602" alt="Screenshot 2023-08-31 at 1 26 42 AM" src="https://github.com/anshooool/EYES/assets/140979513/d910d2df-d893-4ee8-adc2-c90128f0c6f8">
 
+<b>KEYLOGGER MODULE </b>
 
+<img width="1440" alt="Screenshot 2023-08-31 at 1 49 28 AM" src="https://github.com/anshooool/EYES/assets/140979513/4a4bbc55-8bdc-45b4-8ced-3ae040679371">
+
+
+<b>SCREENSHOT MODULE </b>
+
+<img width="1440" alt="Screenshot 2023-08-31 at 1 49 28 AM" src="https://github.com/anshooool/EYES/assets/140979513/67b306cb-e2fe-488b-8152-16a5f8f677cc">
+
+<b> Features yet to be added </b>
+<ul>
+  <li>Persistence</li>
+  <li>Fake login prompt</li>
+  <li>Video/Audio Streaming</li>
+  <li>Live Desktop</li>
+  <li>Apple Script/li>
+    
+</ul>
 
 
