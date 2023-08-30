@@ -81,7 +81,7 @@ Site Blocked
   <li>Fake login prompt</li>
   <li>Video/Audio Streaming</li>
   <li>Live Desktop</li>
-  <li>Apple Script/li>
+  <li>Apple Script</li>
     
 </ul>
 
