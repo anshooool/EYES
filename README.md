@@ -21,6 +21,7 @@
 
 
 
+
 <b>CLIENT TCP communication Module</b> (Unencrypted)
 
 <img width="1440" alt="Screenshot 2023-08-27 at 9 53 59 PM" src="https://github.com/anshooool/EYES/assets/140979513/4287b8b4-d6fb-4773-806a-66dd34f92ea1">
@@ -60,7 +61,9 @@ Site Blocked
 
 <img width="1440" alt="Screenshot 2023-08-27 at 10 23 26 PM" src="https://github.com/anshooool/EYES/assets/140979513/58444180-d20d-4911-9c5c-5ca06ad24f2f">
 
+<b>PYTHON SERVER TCP non GUI (Single client)</b>
 
+<img width="602" alt="Screenshot 2023-08-31 at 1 26 42 AM" src="https://github.com/anshooool/EYES/assets/140979513/d910d2df-d893-4ee8-adc2-c90128f0c6f8">
 
 
 
