@@ -67,7 +67,8 @@ Site Blocked
 
 <b>KEYLOGGER MODULE </b>
 
-<img width="1440" alt="Screenshot 2023-08-31 at 1 49 28 AM" src="https://github.com/anshooool/EYES/assets/140979513/4a4bbc55-8bdc-45b4-8ced-3ae040679371">
+<img width="1440" alt="Screenshot 2023-08-31 at 1 53 07 AM" src="https://github.com/anshooool/EYES/assets/140979513/58de62b4-ea74-43a6-891d-1dee8a2c1be6">
+
 
 
 <b>SCREENSHOT MODULE </b>
